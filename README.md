@@ -1,5 +1,5 @@
 # 🧠 AI Lab Assignments – ENCS5141
-The assignments explore applied machine learning and deep learning techniques through data preprocessing, classification, NLP, and computer vision.
+The case studies explore applied machine learning and deep learning techniques through data preprocessing, classification, NLP, and computer vision.
 
 
 ---
